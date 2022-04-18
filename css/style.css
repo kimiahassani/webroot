@@ -12,6 +12,10 @@
     align-items: top;
 }
 
+ul.b {
+    list-style-type: square;
+}
+
 .col-container {
     display: table; /* Make the container element behave like a table */
     width: 80%; /* Set full-width to expand the whole page */
