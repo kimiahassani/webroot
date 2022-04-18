@@ -9,12 +9,40 @@
 .flex-container {
     display: flex;
     height: 400px;
-    align-items: top;
+    align-items: center;
 }
 
 ul.b {
     list-style-type: square;
 }
+
+a {
+    color: saddlebrown;
+    font-size: 20px;
+    font:bold;
+    background-color: burlywood;
+}
+.Li {
+    color: black;
+    font-size: 20px;
+    background-color: lightyellow;
+}
+.Li1 {
+    color: black;
+    font-size: 20px;
+    background-color: lightyellow;
+}
+.Li2 {
+    color: black;
+    font-size: 20px;
+    background-color: lightyellow;
+}
+.Li3 {
+    color: black;
+    font-size: 20px;
+    background-color: lightyellow;
+}
+
 
 .col-container {
     display: table; /* Make the container element behave like a table */
@@ -28,6 +56,13 @@ ul.b {
 .bio{
 background-position:50px;
 background-color: aquamarine;
+
+}
+.div1 {
+    width: 1000px;
+    height: 1000px;
+    padding: 50px;
+    border: 5px solid brown;
 }
 
 
@@ -36,6 +71,7 @@ background-color: aquamarine;
     .col {
         display: block;
         width: 80%;
+
     }
 }
 
